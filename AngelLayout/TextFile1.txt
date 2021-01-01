@@ -1,0 +1,12 @@
+﻿
+          
+            //       var resources = new System.ComponentModel.ComponentResourceManager(this.GetType());
+            //       resources.ApplyResources(this, "$this");
+            //        Loading(this, resources);
+
+           // var g = Handles.Get();
+            //MessageBox.Show(g);
+           // var g = Handles.Get();
+
+		           //angelView.Navigate(@"https://baike.baidu.com/item/Python/407313?fr=aladdin");
+               angelView.Navigate(@"F:\VSProjects\AngelWolf\Rastera\asnic\rastera\ketself.html");

@@ -1,0 +1,332 @@
+
+struct ReviveInfo : SphereInfo
+{
+	float startTime = 12.30f;
+	float absoluteTime = 8.25f;
+	float endTime = 9.30f;
+	long place;
+	string placeName;
+	//参照物？幻像 真 实体
+	int  refered
+	//向心力 微积分 劈开圆形Objects;
+
+};	//cout << "Hello World" << endl;
+	//cout << "Behold Parallel" << endl;
+	//cout << "Listen,Check,Control,Change,Overthrow" << endl;
+	//cout << "testing for this" << endl;
+	//cout << "黑白无常爱大家" << endl;
+////二子 怀特 white
+////	MemoryFunc* func;
+//class MemoryFunc
+//{
+//protected:
+//public:
+//	~MemoryFunc() {};
+//};
+//狐狸 smelling = 7.five,
+enum class RunningType
+{
+	parallel = 0,
+	balance = 1,
+	rotate = 2,
+	circle = 3,
+	encircling = 4,
+	explosive = 5,
+	suspending = 6,//TOP 复杂度
+};
+// 郎咸平
+struct QuantityInfo
+{
+	int id;
+	string name;
+	RunningType  runningType;
+
+	QuantityInfo(const int& id, const string& name, const RunningType& rt)
+	{
+		this->id = id;
+		this->name = name;
+		this->runningType = rt;
+	}
+
+};
+
+struct ChemicalElements
+{
+	vector<vector<QuantityInfo>> quantities;
+	vector<QuantityInfo> each;
+	//each.push_back(QuantityInfo(1, "", RunningType::balance));
+	ChemicalElements()	
+	{
+
+	}
+};
+//-------------------------
+	//Chemcial source;
+	//Parameter parameter;
+	//SphereInfo sphere;
+	//sphere.isOutSpace = true;
+	//Atmosphere::GetInstance(sphere);
+	//sphere.isOutSpace = false;
+	//Atmosphere::GetInstance(sphere);
+
+	//Outcome outcome = source.Generate(parameter);
+
+	//outcome = source.Rotate(parameter);
+	//outcome = source.Penetrate(parameter);
+	//outcome = source.Entertain(parameter);
+	//outcome = source.GetComplexity(parameter);
+
+	//system("pause");
+
+InterweaveElements interweaveElements[346];
+
+	DimentionInfo dimensionInfo[7];
+
+	dimensionInfo[0]= DimentionInfo(1,"parallel  ");
+	dimensionInfo[1]= DimentionInfo(2,"balance   ");
+	dimensionInfo[2]= DimentionInfo(3,"rotate	   ");
+	dimensionInfo[3]= DimentionInfo(4,"encircle  ");
+	dimensionInfo[4]= DimentionInfo(5,"circle	   ");
+	dimensionInfo[5]= DimentionInfo(6,"explosive ");
+	dimensionInfo[6]= DimentionInfo(7,"suspend   ");
+	
+	PhysicalInfo physicalInfo[7];
+	physicalInfo[0] = PhysicalInfo(1, "proton ");
+	physicalInfo[1] = PhysicalInfo(2, "meson ");
+	physicalInfo[2] = PhysicalInfo(3, "Electronics   ");
+	physicalInfo[3] = PhysicalInfo(4, "atom ");
+	physicalInfo[4] = PhysicalInfo(5, "quantum   ");
+	physicalInfo[5] = PhysicalInfo(6, "particle ");
+	physicalInfo[6] = PhysicalInfo(7, "Ion  ");
+
+	interweaveElements[0] = InterweaveElements(1, 1, 1, "atom", "unknown", 1);
+	 
+	interweaveElements[5] = InterweaveElements(6, 1, 6, "atom", "yin", 4);
+	interweaveElements[6] = InterweaveElements(7, 1, 7, "atom", "yang", 4);
+	interweaveElements[7] = InterweaveElements(8, 1, 1, "Electronics", "unknown", 1);
+	interweaveElements[8] = InterweaveElements(9, 1, 2, "Electronics", "magnesium", 2);
+ 
+	interweaveElements[14] = InterweaveElements(15, 2, 1, "quantum", "unknown", 1);
+	interweaveElements[15] = InterweaveElements(16, 2, 2, "quantum", "magnesium", 2);
+ 
+	interweaveElements[20] = InterweaveElements(21, 2, 7, "quantum", "yang", 4);
+
+	ColorInfo colorInfo[14];
+	colorInfo[0] = ColorInfo(1, "LightPink,", "浅粉红,", "#FFB6C1", 255, 182, 193);
+	colorInfo[1] = ColorInfo(2, "Pink,", "粉红,", "#FFC0CB", 255, 192, 203);
+ 
+
+	ChemicalElements chemicalElements[14];
+	chemicalElements[0] = ChemicalElements(1,"H	","Hydrogen	","氢",3);
+	chemicalElements[1] = ChemicalElements(2,"He","Helium","氦",3);
+	chemicalElements[2] = ChemicalElements(3,"Li","Lithum","锂",1);
+	 
+
+--------------------------------
+using namespace std;
+//#import "c:\\program files\\common files\\system\\ado\\msado15.dll"  no_namespace rename("EOF", "adoEOF")
+#include "CJsonObject.hpp"
+//short Database()
+//{
+//    ::CoInitialize(NULL);
+//    _ConnectionPtr  m_pConnection;
+//    _RecordsetPtr   m_pRecordSet;
+//    try
+//    {
+//        m_pConnection.CreateInstance(__uuidof(Connection));
+//        m_pRecordSet.CreateInstance(__uuidof(Recordset));
+//        assert(NULL != m_pConnection);
+//        assert(NULL != m_pRecordSet);
+//        if (NULL == m_pRecordSet
+//            || NULL == m_pConnection)
+//        {
+//            cout << "创建实例失败" << endl;
+//            return -1;
+//        }
+// 
+//        m_pConnection->CommandTimeout = 25;
+//      m_pConnection->ConnectionString = "Provider = SQLOLEDB;  Data Source = 127.0.0.1; User ID = sa;Initial Catalog = EverSource";
+//       //   m_pConnection->ConnectionString = "Provider=SQLOLEDB.1;User ID=sa;Initial Catalog=EverSource;Data Source=localhost";
+//        m_pConnection->Open("", "", "", adConnectUnspecified);
+//        assert(m_pConnection->GetState() == adStateOpen);
+//        if (m_pConnection->GetState() != adStateOpen)
+//        {
+//            cout << "连接失败" << endl;
+//            return -2;
+//        }
+//
+//        _variant_t var;
+//        m_pRecordSet = m_pConnection->Execute("Select * from [EverSource].[dbo].[chemical_elements]", &var, adCmdText);
+//        cout << (int)var << endl;
+//        //  cout << m_pRecordSet->GetFields(). << endl;
+//        auto szLogonID = m_pRecordSet->GetCollect("name");
+//        auto szNickName = m_pRecordSet->Fields->GetItem("abbr")->Value;
+//        szLogonID.bstrVal;
+//        cout << szLogonID.bstrVal << endl;
+//        cout << szNickName.bstrVal << endl;
+//
+//    }
+//    catch (_com_error& e)
+//    {
+//        cout << e.Description() << endl;
+//    }
+//
+//    ::CoUninitialize();
+//    return 0;
+//}
+struct ChemicalElements
+	{
+		int id;
+		string abbr;
+		string name;
+		string desc;
+		int magneticOrder;
+		ChemicalElements() {}
+		ChemicalElements(const int& id,
+			const string& abbr,
+			const string& name,
+			const string& desc,
+			const int& magneticOrder) {}
+	};
+	struct InterweaveElements
+	{
+		int ID = 0;
+		int physicalID = 0;
+		int chemicalID = 0;
+		string physicalName = 0;
+		string chemicalName = 0;
+		int order = 0;
+		vector<ColorInfo> colorList;
+		vector<ChemicalElements> chemicalList;
+		InterweaveElements() {};
+		InterweaveElements(const int& id,
+			const int& pid,
+			const int& cid,
+			const string& physicalName,
+			const  string& chemicalName,
+			const int& order)
+		{
+			ID = id;
+			physicalID = pid;
+			chemicalID = cid;
+			this->physicalName = physicalName;
+			this->chemicalName = chemicalName;
+			this->order = order;
+		};
+	};
+	struct PhysicalInfo
+	{
+		int id;
+		string name;
+		InterweaveElements interweaveElements;
+		PhysicalInfo() {};
+		PhysicalInfo(const int& id, const string& name)
+		{
+			this->id = id;
+			this->name = name;
+		};
+		PhysicalInfo(const int& id, const string& name, const InterweaveElements& ie)
+		{
+			this->id = id;
+			this->name = name;
+			this->interweaveElements = ie;
+		};
+	};
+	struct DimentionInfo
+	{
+		int id;
+		string name;
+		PhysicalInfo physicalInfo;
+		InterweaveElements interweaveElements;
+		DimentionInfo() {};
+		DimentionInfo(const int& id, const string& name)
+		{
+			this->id = id;
+			this->name = name; 
+		};
+		DimentionInfo(const int& id, const string& name, const InterweaveElements& ie)
+		{
+			this->id = id;
+			this->name = name;
+			this->interweaveElements = ie;
+		};
+	};
+
+	//    neb::CJsonObject json;// ("{main:99}");
+//    
+//    json.AddEmptySubObject("interweaved");
+//    json["interweaved"].Add("name", "atlantis");
+//    json["interweaved"].AddEmptySubArray("atom");
+//    json["interweaved"]["atom"].Add("magnesium");
+//    json["interweaved"]["atom"].Add("subtle");
+//    json["interweaved"]["atom"].Add("interim");
+//
+//    json["interweaved"]["atom"].Add("others");
+//    
+//
+//    json["interweaved"].AddEmptySubArray("colors");
+// 
+//    json["interweaved"]["colors"].Add("r");
+//    json["interweaved"]["colors"].Add("g");
+//    json["interweaved"]["colors"].Add("b");
+//    json["interweaved"]["colors"].Add("u");
+//    json["interweaved"]["colors"].Add("a");
+// 
+//    json["interweaved"]["atom"].AddEmptySubArray("asdf");
+//    json["interweaved"]["atom"]["asdf"].Add("ee","1132");
+//    json["interweaved"]["atom"]["asdf"].Add("e1e", "1132");
+//    json["interweaved"]["atom"]["asdf"].Add("e1e", "1132");
+//    json["interweaved"]["atom"]["asdf"].Add("e2e", "1132");
+//;
+//   json["interweaved"]["atom"]["asdf"].Add("H");
+//    cout << json["interweaved"]["atom"].GetArraySize() <<endl;
+//    cout << json.ToFormattedString() << endl;
+
+	//try
+	//{
+	//	while (!m_pRecordset->adoEOF)
+	//	{
+	//		vEmployeeID = m_pRecordset->GetCollect(_variant_t((long)0));
+	//		//取得第1列的值，从0开始计数，你也可以直接列出列的名称，如下一行
+	//		vFirstName = m_pRecordset->GetCollect("FirstName");
+	//		vLastName = m_pRecordset->GetCollect("LastName");
+	//		vHireDate = m_pRecordset->GetCollect("HireDate");
+	//		vCity = m_pRecordset->GetCollect("City");
+	//		CString strtemp;
+	//		if (vEmployeeID.vt != VT_NULL)
+	//		{
+	//			strtemp.Format("%d", vEmployeeID.lVal);
+	//		}
+	//		if (vFirstName.vt != VT_NULL)
+	//		{
+	//			strtemp += " ";
+	//			strtemp += (LPCTSTR)(_bstr_t)vFirstName;
+	//		}
+	//		if (vLastName.vt != VT_NULL)
+	//		{
+	//			strtemp += " ";
+	//			strtemp += (LPCTSTR)(_bstr_t)vLastName;
+	//		}
+	//		if (vHireDate.vt != VT_NULL)
+	//		{
+	//			strtemp += " ";
+	//			strtemp += (LPCTSTR)(_bstr_t)vHireDate;
+	//		}
+	//		if (vCity.vt != VT_NULL)
+	//		{
+	//			strtemp += " ";
+	//			strtemp += (LPCTSTR)(_bstr_t)vCity;
+	//		}
+	//		m_list1.AddString(strtemp);
+	//		m_list1.AddString("/n");
+	//		m_pRecordset->MoveNext();
+	//	}
+	//}
+	//catch (_com_error &e)
+	//{
+	//	AfxMessageBox(e.Description());
+	//}
+	//m_pRecordset->Close();
+	//m_pRecordset = NULL;
+	//m_pConnection->Close();
+	//m_pConnection = NULL;

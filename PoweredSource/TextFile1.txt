@@ -1,0 +1,115 @@
+﻿      [JsonIgnore]
+        public virtual string NodeStyle
+        {
+            set { this.nodeStyle = value; }
+            get
+            {
+                StringWriter sw = new StringWriter();
+
+                JsonTextWriter writer = new JsonTextWriter(sw);
+
+                writer.QuoteName = false;
+                writer.WriteStartObject();
+
+                writer.WritePropertyName("id");
+                //注意To 作为 ID
+                writer.WriteValue(To);
+                writer.WritePropertyName(" label");
+                writer.WriteValue(Label);
+                writer.WritePropertyName("shape");
+                writer.WriteValue(Shape);
+
+                writer.WritePropertyName("group");
+                writer.WriteValue(Group);
+                writer.WriteRaw(",");
+
+                //group
+
+
+                if (!string.IsNullOrEmpty(this.nodeStyle))
+                    writer.WriteRaw(nodeStyle);
+
+                writer.WriteEndObject();
+              writer.WriteRaw(",");
+
+                writer.Flush();
+                writer.Close();
+
+                return sw.GetStringBuilder().ToString();
+            }
+        }
+        //   [JsonProperty("edge_style")]
+        [JsonIgnore]
+        public virtual string EdgeStyle
+        {
+            set { this.edgeStyle = value; }
+            get
+            {
+                StringWriter sw = new StringWriter();
+                JsonTextWriter writer = new JsonTextWriter(sw);
+
+                writer.QuoteName = false;
+                writer.WriteStartObject();
+
+                writer.WritePropertyName("from");
+                writer.WriteValue(From);
+                writer.WritePropertyName(" to");
+                writer.WriteValue(To);
+                writer.WritePropertyName(" label");
+                writer.WriteValue(Label);
+                if (!string.IsNullOrEmpty(this.edgeStyle))
+                    writer.WriteRaw(edgeStyle);
+
+                writer.WriteEndObject();
+               writer.WriteRaw(",");
+
+                writer.Flush();
+                writer.Close();
+
+                return sw.GetStringBuilder().ToString();
+            }
+        }
+  
+        
+
+
+
+        {
+            DatabaseProviderFactory factory = new DatabaseProviderFactory();
+            //var db = factory.CreateDefault();
+
+            var db = factory.Create(Constant.Database_Beautiful);
+            var dr = db.ExecuteReader(System.Data.CommandType.StoredProcedure, "[dbo].[sp_get_incident_list]");
+            var list = new List<IncidentInfo>();
+            while (dr.Read())
+            {
+                var incidentInfo = new IncidentInfo();
+                incidentInfo.RoleInfo.ID = ConvertUtil.ToInt32(dr["role_id"]);
+                incidentInfo.RoleInfo.Name = dr["role_name"].ToString();
+                incidentInfo.RoleInfo.CategoryInfo.ID = ConvertUtil.ToInt32(dr["role_category_id"]);
+                incidentInfo.RoleInfo.CategoryInfo.Name = dr["role_category"].ToString();
+                incidentInfo.RoleInfo.PriorityID = ConvertUtil.ToInt32(dr["role_priority_id"]);
+                incidentInfo.Desc = dr["incident_desc"].ToString();
+                incidentInfo.PriorityID = ConvertUtil.ToInt32(dr["incident_priority_id"]);
+           
+                list.Add(incidentInfo);
+            }
+            return list;
+        }
+        public static Tuple<string, string> GetJson(string type)
+        {
+            // var shape = (nodes: string.Empty, edges: string.Empty);
+            var list = GetList();
+            var node = new System.Text.StringBuilder();
+            var edge = new System.Text.StringBuilder();
+            foreach (var item in list)
+            {
+                // var jsonName = GetJsonInfo(item.Name);
+                //     WriteLine(item.No);
+                //node.AppendLine(item.NodeStyle);
+                //edge.AppendLine(item.EdgeStyle);
+
+            }
+            return new Tuple<string, string>("[" + node + "]" + "\r\n", "[" + node + "]" + "\r\n");
+
+        }

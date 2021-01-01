@@ -1,0 +1,258 @@
+﻿
+            public override string ToString()
+            {
+                var list = new StringBuilder();
+                //list.Append("P:").Append(Top);
+                ////   list.Append("U:").Append(Aup);
+                //list.Append("Aup:").Append(Bottom);
+
+                //char
+                //list.Append(kets[i].Ketpine.value);
+                //ascii
+                // list.Append(kets[i].Ketpine.Ascii);
+                //byte
+                list.Append((byte)Ascii);
+                //hex
+                //  list.Append(((byte)kets[i].Ketpine.Ascii).ToString("x"));
+                //binary
+                //  list.Append(Convert.ToString(((byte)kets[i].Ketpine.Ascii),2));
+                return list.ToString();
+
+            }
+        [TestMethod]
+        public void Execute()
+        {
+            try
+            {
+                Execute("N a");
+                Execute("M b/f,a/f");
+                Execute("N asdf/folder/folder/auto");
+                Execute("阿斯蒂芬斯蒂芬");
+                Execute("阿斯蒂芬斯蒂芬");
+
+                //  WriteLine(StartPath);
+            }
+            catch (Exception e)
+            {
+                WriteLine(e.Message);
+            }
+        }       [TestMethod]
+        public void Execute()
+        {
+            try
+            {
+            Evaluator.EvaluateToBool("1==1");
+            }
+            catch(Exception e)
+            {
+                WriteLine(e.Message);
+            }
+        }
+		
+		public enum HexType
+        {
+            Binary = 0,
+            Octal,
+            Hexadecimal,
+            Decimal,
+            Ascii
+        }
+        public string GetAscii(string value)
+        {
+            var bytes = GetBytes(value);
+            return Encoding.ASCII.GetString(bytes);
+        }
+        public byte[] GetBytes(string value, Encoding encoding = null)
+        {
+            Encoding encode = encoding == null ? Encoding.Default : encoding;
+            return encode.GetBytes(value);
+        }
+        public IList<string> Hexget(string value, HexType hexType = HexType.Hexadecimal, Encoding encoding = null)
+        {
+            var bytes = GetBytes(value, encoding);
+            IList<string> kets = new List<string>();
+            foreach (byte b in bytes)
+            {
+                if (hexType == HexType.Binary)
+                    kets.Add(Convert.ToString(b, 2));
+                else if (hexType == HexType.Hexadecimal)
+                    kets.Add(Convert.ToString(b.ToString("x")));
+                else if (hexType == HexType.Octal)
+                    kets.Add(Convert.ToString(b.ToString("8")));
+                //else if (hexType == HexType.Octal)
+                //    Encoding.ASCII.GetString(bytes);
+            }
+            return kets;
+        }
+        //public byte[] GetByteStringArray(string value)
+        //{
+
+        //  //  byte[] b = encode.GetBytes(value);
+        //    //   WriteLine("string:" + value.Length + "byte:" + b.Length);
+
+        //    //for (int i = 0; i < b.Length; i++)
+        //    //{
+        //    //    var binary = Convert.ToString(b[i], 2);
+        //    //    // Console.Write("{0}", binary);
+        //    //    Console.Write(b[i].ToString("x") + " ");
+        //    //}
+        //    //     WriteLine();
+        //    return b;
+        //}
+
+        //private string GetBinary(string str)
+        //{
+        //    System.Text.RegularExpressions.CaptureCollection cs = System.Text.RegularExpressions.Regex.Match(str, @"([01]{8})+").Groups[1].Captures;
+        //    byte[] data = new byte[cs.Count];
+        //    for (int i = 0; i < cs.Count; i++)
+        //    {
+        //        data[i] = Convert.ToByte(cs[i].Value, 2);
+        //    }
+        //    return Encoding.Unicode.GetString(data, 0, data.Length);
+        //}
+
+                    //index
+                    //sb.Append(kets[i].ToString()).Append(kets[i].Ket.ToString());
+                    //sb.Append("[");
+                    //sb.Append(kets[i].Ket.value.ToString()); sb.Append(":");
+                    //sb.Append(kets[i].Ket.Ascii);
+                    //sb.Append("]");
+                    //sb.Append(" ");
+            //var words = seg.Cut(asdf, cutAll: true);
+            //seg.LoadUserDict("dict.txt");
+            //Console.WriteLine("【全模式】：{0}",words);
+
+            //words = seg.Cut(asdf);  // 默认为精确模式
+            //Console.WriteLine("【精确模式】：{0}", string.Join("/ ", words));
+
+            //words = seg.Cut(asdf);  // 默认为精确模式，同时也使用HMM模型
+            //Console.WriteLine("【新词识别】：{0}", string.Join("/ ", words));
+
+            //words = seg.CutForSearch(asdf); // 搜索引擎模式
+            //Console.WriteLine("【搜索引擎模式】：{0}", string.Join("/ ", words));
+
+            //words = seg.Cut("结过婚的和尚未结过婚的");
+            //Console.WriteLine("【歧义消除】：{0}", string.Join("/ ", words));
+ [TestMethod]
+        public void utf()
+        {
+            //string utf8String = "骞垮憡涓戦椈";
+
+            //// Create two different encodings.
+            //Encoding utf8 = Encoding.UTF8;
+            //Encoding defaultCode = Encoding.Default;
+
+            //// Convert the string into a byte[].
+            //byte[] utf8Bytes = default.GetBytes(utf8String);
+
+            //// Perform the conversion from one encoding to the other.
+            //byte[] defaultBytes = Encoding.Convert(utf8, defaultCode, utf8Bytes);
+
+            //// Convert the new byte[] into a char[] and then into a string.
+            //// This is a slightly different approach to converting to illustrate
+            //// the use of GetCharCount/GetChars.
+            //char[] defaultChars = new char[defaultCode.GetCharCount(defaultBytes, 0, defaultBytes.Length)];
+            //defaultCode.GetChars(defaultBytes, 0, defaultBytes.Length, defaultChars, 0);
+            //string defaultString = new string(defaultChars);
+
+            //// Display the strings created before and after the conversion.
+            //Console.WriteLine("Original string: {0}", utf8String);
+            //Console.WriteLine("Ascii converted string: {0}", defaultString);
+
+            ////或者如下：
+            //byte[] buffer1 = Encoding.Default.GetBytes(utf8String);
+            //byte[] buffer2 = Encoding.Convert(Encoding.UTF8, Encoding.Default, buffer1, 0, buffer1.Length);
+            //string strBuffer = Encoding.Default.GetString(buffer2, 0, buffer2.Length);
+        }
+
+        [TestMethod]
+        public void reflect()
+        {
+            //F:\VSProjects\AngelWolf\Business\Category.cs
+
+            Type t = typeof(Category);//类名
+                                      // t.GetMethod
+                                      //  MethodInfo mt = t.GetMethod(Event);//加载方法
+                                      //   string DoRet = mt.Invoke(this, new object[] { pra1, pra2, pra3 }).ToString();//执行
+
+            //通过反射来执行类的静态方法
+            Type tx = typeof(Business.Category);
+            MethodInfo mf = tx.GetMethod("GetJsonLis2t", BindingFlags.Public | BindingFlags.Static, null, new Type[] { }, null);
+            string saf = (string)mf.Invoke(null, null);
+
+            Console.WriteLine(saf);
+        }        [TestMethod]
+        public void Testkets()
+        {
+            //var bytes = File.ReadAllBytes(@"e:\VSProjects\AngelWolf\Rastera\asnic\rastera\ketself.html");
+            var lines = File.ReadAllLines(@"f:\VSProjects\AngelWolf\Rastera\asnic\rastera\ketself.html");
+            //  var u= lines.GetUpperBound(0);
+            char[] kets;
+
+            int index = 0;
+            //   var len = lines.GetUpperBound(1);
+            var len = 0;
+            var lenString=string.Empty;
+         //   var sb = new StringBuilder();
+
+        //    sb.Append("<table style=\"background-color: \"> ");
+
+            foreach (var line in lines)
+            {
+               // sb.AppendLine("<tr>");
+                index++;
+                if (line.Length > len)
+                {
+                    len = line.Length;
+                    lenString = line;
+                    WriteLine(index.ToString());
+                }
+                //   Write("[" + index + "]");
+                kets = line.ToCharArray();
+                foreach (var k in kets)
+                {
+                    //web.dot11 dash.5ㄱ
+                  //  sb.AppendLine("<td style='border:0.5px solid black'>");
+             //       sb.Append(k);
+                  //  sb.AppendLine("</td>");
+                }
+            //    sb.AppendLine("</tr>");
+            }
+            sb.Append("</table>");
+        //    File.WriteAllText(@"C:\Users\Administrator\Desktop\kets.html", sb.ToString());
+          //  Console.Write(sb.ToString());
+            //for (int i = 0; i < len; i++)
+            //    Write("--");
+
+        }[TestMethod]
+        public void WriteCategory()
+        {
+            var cate = PoweredSource.Category.GetList();
+            var o = ParentInfo.GetNodeJson(typeof(RoleCategory).Name);
+            WriteLine(o);
+            jsonCategory = o;
+         }
+        [TestMethod]
+        public void WriteRoleList()
+        {
+            var group = PoweredSource.Role.GetList();
+            var o = ParentInfo.GetNodeJson(typeof(RoleInfo).Name);
+            WriteLine(o);
+            jsonRole = o;
+        }
+        [TestMethod]
+        public void WriteRoleGroup()
+        {
+            var group = PoweredSource.Role.GetGroup();
+            var o = ParentInfo.GetNodeJson(typeof(RoleInfo).Name);
+            WriteLine(o);
+            jsonRoleGroup = o;
+        }
+        [TestMethod]
+        public void WriteIncident()
+        {
+            var cate = PoweredSource.Incident.GetList();
+            var o = ParentInfo.GetNodeJson(typeof(IncidentInfo).Name);
+            WriteLine(o);
+            jsonIncident = o;
+        }
