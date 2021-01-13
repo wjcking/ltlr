@@ -49,6 +49,7 @@
             this.menuRegisterInfo = new System.Windows.Forms.ToolStripMenuItem();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.menuStrip.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -180,18 +181,18 @@
             // menuHelp
             // 
             this.menuHelp.Name = "menuHelp";
-            this.menuHelp.Size = new System.Drawing.Size(180, 22);
+            this.menuHelp.Size = new System.Drawing.Size(141, 22);
             this.menuHelp.Text = "查看帮助(&H)";
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(177, 6);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(138, 6);
             // 
             // menuRegisterInfo
             // 
             this.menuRegisterInfo.Name = "menuRegisterInfo";
-            this.menuRegisterInfo.Size = new System.Drawing.Size(180, 22);
+            this.menuRegisterInfo.Size = new System.Drawing.Size(141, 22);
             this.menuRegisterInfo.Text = "关于(&A)";
             // 
             // statusStrip1
@@ -209,13 +210,21 @@
             this.toolStrip1.Size = new System.Drawing.Size(800, 25);
             this.toolStrip1.TabIndex = 40;
             this.toolStrip1.Text = "toolStrip1";
-            this.toolStrip1.Visible = false;
+            // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(46, 71);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(625, 296);
+            this.richTextBox1.TabIndex = 41;
+            this.richTextBox1.Text = "";
             // 
             // Mdi
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.menuStrip);
@@ -252,5 +261,6 @@
         private System.Windows.Forms.StatusStrip statusStrip1;
         private System.Windows.Forms.ToolStrip toolStrip1;
         private System.Windows.Forms.ToolStripMenuItem tsm_new;
+        private System.Windows.Forms.RichTextBox richTextBox1;
     }
 }

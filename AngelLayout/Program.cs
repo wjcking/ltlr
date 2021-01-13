@@ -16,7 +16,7 @@ namespace AngelLayout
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AsnicForm());
+            Application.Run(new Mdi());
             BrowserRegister.SetWebBrowserFeatures(11);
         }
     }
