@@ -262,3 +262,5 @@ __pycache__/
 UnitTest/Asnic/Metric.cs
 Rastera/asnic/.DS_Store
 .DS_Store
+Konsole/lib/Everything32.lib
+Konsole/lib/Everything64.lib

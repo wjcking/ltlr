@@ -1,5 +1,5 @@
 ﻿using System.Windows.Forms;
-using Beautiful;
+
 namespace AngelLayout
 {
     [System.Runtime.InteropServices.ComVisible(true)]
