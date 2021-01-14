@@ -193,7 +193,7 @@
             //   var len = lines.GetUpperBound(1);
             var len = 0;
             var lenString=string.Empty;
-         //   var sb = new StringBuilder();
+         //   var sb = new StringBuilder();string.empty
 
         //    sb.Append("<table style=\"background-color: \"> ");
 

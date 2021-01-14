@@ -24,7 +24,7 @@ namespace AngelLayout
             //main.WindowState = FormWindowState.Maximized;//子窗体
             //main.Show();  
       
-            Application.AddMessageFilter(this);
+      //      Application.AddMessageFilter(this);
         }
 
         private void tsm_new_Click(object sender, EventArgs e)
@@ -51,7 +51,7 @@ namespace AngelLayout
 
             if (msg.Msg == WM_KEYDOWN | msg.Msg == WM_SYSKEYDOWN)
             {
-               richTextBox1.AppendText( keyData.ToString());
+         //     textBox1.AppendText( keyData.ToString());
                 switch (keyData)
                 {
                     case Keys.Escape:
@@ -74,6 +74,13 @@ namespace AngelLayout
                 //m.Result.
             }
             return false;
+        }
+
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+            label1.Location = new Point(0, 300);
+     //       label1.BackColor = Color.Transparent;
+            textBox1.Controls.Add(label1);
         }
     }
 }
