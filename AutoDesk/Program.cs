@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Asnic
+namespace AutoDesk
 {
-
-   /// <summary>
-   /// Fusion-~-Anti
-   /// </summary>
-    public class Solid
+    class Program
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }

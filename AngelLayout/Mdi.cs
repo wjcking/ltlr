@@ -26,10 +26,10 @@ namespace AngelLayout
       
       //      Application.AddMessageFilter(this);
         }
-
-        private void tsm_new_Click(object sender, EventArgs e)
+        private void textBox1_MouseMove(object sender, MouseEventArgs e)
         {
-
+            //label1.ForeColor = Pixels.GetColor(e.X, e.Y, this);
+            //label1.Text = Pixels.GetColor(e.X, e.Y, this).ToString();
         }
         protected override void WndProc(ref Message m)
         {
@@ -82,5 +82,6 @@ namespace AngelLayout
      //       label1.BackColor = Color.Transparent;
             textBox1.Controls.Add(label1);
         }
+
     }
 }

@@ -1,29 +1,44 @@
-﻿#define  asdf
+﻿#define  Lasset
 using System;
 using System.Runtime.ConstrainedExecution;
 using System.Runtime.InteropServices;
 using System.Security;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+//using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 namespace UnitTest.AutoDesk
-{
-    [TestClass]
-    public class UnitTest1
-    {
-       
-        [TestMethod]
-        public void TestMethod1()
-        {
+{ 
+        /*
+         * 只从上往下 下不上
+         *  C struct
+         *  C++ 
+         * 上下都可以 
+         *  C#
+         * Java
+         * Script a();
+         * function b() { alert("b") }
+         * function a() {  b();  } 
+         */
 
-        }
-    }
-
+    
+        interface I { }
+        interface P:I{ }
+        interface N:P,I{ }
+        //中间类 
+        static class Sim{ };
+        class Amid{ };
+        //end
+        class A{ }
+        class B:A { }
+        class C:A { }
+        //不能派生类
+        struct S:A {};
+        struct Q { }; 
     //Leonsnic.Security;
     //Leonsnic.Runtime.ConstrainedExecution;
     //Leonsnic.Runtime.InteropServices;
     //Leonsnic.Runtime.Versioning;
 
-    namespace Leonsnical
+    namespace Komb
     {
         //   类层次结构中的所有类，并为派生类提供低级别服务。所有类的最终基类；它是类型层次结构的根。
         //     若要浏览此类型的.NET Framework 源代码，请参阅Reference Source。
@@ -51,23 +66,23 @@ namespace UnitTest.AutoDesk
             /// <param name="objA">要比较的第一个对象</param>
             /// <param name="objB">要比较的第二个对象</param>
             /// <returns>确定指定的 System.Object [实例]是否是相同的[实例</returns> 
-           /// </summary>
-            //[NonVersionableAttribute]
-            //[ReliabilityContract(Consistency.WillNotCorruptState, Cer.Success)]
-           // public static bool ReferenceEquals(Object objA, Object objB){}
+            /// </summary>
+            [NonVersionableAttribute]
+            [ReliabilityContract(Consistency.WillNotCorruptState, Cer.Success)]
+            public static bool ReferenceEquals(Object objA, Object objB) { }
 
-            //public virtual bool Equals(Object obj){} 
+            public virtual bool Equals(Object obj) { }
 
 
-          //  public virtual int GetHashCode(){}
+            public virtual int GetHashCode() { }
 
-         //   [SecuritySafeCritical]
-         //   public Type GetType(){}
+            [SecuritySafeCritical]
+            public Type GetType() { }
 
-         //   public virtual string ToString(){}
+            public virtual string ToString() { }
 
-          //  [SecuritySafeCritical]
-          //  protected Object MemberwiseClone(){}
+            [SecuritySafeCritical]
+            protected Object MemberwiseClone() { }
 
         }
     }
