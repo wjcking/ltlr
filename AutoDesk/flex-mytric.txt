@@ -9,11 +9,33 @@ Pony
   ket arrays
   pony.font.perfomance.redraw
   screen:pixels/font.size
-	  width:
-		  char[120] = 1920/16 
-		  wchar[100x] =  1920/16 
-	  height:
-		  char[68] = 1080/16 67.5
+	width:
+		char[120] = 1920/16 
+		wchar[100x] =  1920/16 
+	height:
+		char[68] = 1080/16 67.5
+	string[height] 
+	{
+	
+	  string
+		string	  
+		string
+		string
+		string	  
+	  string
+	}
+	string[height] 
+	{
+	
+	  string
+		string[width] {  string string string string  }
+		string[width] {  string string string string  }
+		string[width] {  string string string string  }
+		string[width] {  string string string string  }
+	  
+	  string
+	}
+
   covid.display
 	  linb:
   Top bottom Left Right
@@ -23,17 +45,7 @@ Pony
 			  katub //katup
 
   rastera/transcolor.html
-	◇a b c d e f g h i g k l ○
-	1                         A
-	2                         V
-	3                         C
-	4                         D
-	5                         A
-	6                         B
-	7                         C
-	8                         A
-	9                         Q
-	♀ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫ△
+  leonic/excel/rant.xlsx
   linb.height = pony.screen.font.height
   rect.screen
 	  fixed linb

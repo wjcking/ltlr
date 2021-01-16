@@ -43,8 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Converter.cs" />
-    <Compile Include="Lasset.cs" />
+    <Compile Include="Cybert.cs" />
+    <Compile Include="Kovert.cs" />
+    <Compile Include="Hypert.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -52,7 +53,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="leon-maticals.txt" />
+    <Content Include="flex-mytric.txt" />
+    <Content Include="%24Lasset.txt" />
+    <Content Include="HyperLect.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

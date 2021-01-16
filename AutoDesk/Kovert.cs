@@ -1,46 +1,43 @@
 using System;
 
-namespace KansaiUtils
-{
-    /// <summary>
-    /// StringUtility 的摘要说明。
-    /// </summary>
-    public static class Converter
+namespace AutoDesk
+{ 
+    public  class Kovert
     {
         /// <summary>
         /// To json "\r\n", "\\r\\n"
         /// </summary>
-        /// <param name="str"></param>
+        /// <param name="value"></param>
         /// <returns></returns>
-        public static string Translate(this string str)
+        public string Translate(string value)
         {
-            if (string.IsNullOrEmpty(ToString(str)))
+            if (string.IsNullOrEmpty(value))
                 return String.Empty;
 
-            str = str.Replace("\r", "\\r");
-            str = str.Replace("\n", "\\n");
-            str = str.Replace("\r\n", "\\r\\n");
-            return str;
+            value = value.Replace("\r", "\\r");
+            value = value.Replace("\n", "\\n");
+            value = value.Replace("\r\n", "\\r\\n");
+            return value;
         }
-        public static String ToString(Object objStr, String defaultValue)
+        public String ToString(Object value, String defaultValue)
         {
             try
             {
 
-                return (objStr == null) ? defaultValue : System.Convert.ToString(objStr);
+                return (value == null) ? defaultValue : System.Convert.ToString(value);
             }
-            catch  
+            catch
             {
                 return string.Empty;
             }
         }
 
-        public static String ToString(Object objStr)
+        public String ToString(Object value)
         {
-            return ToString(objStr, String.Empty);
+            return ToString(value, String.Empty);
         }
 
-        public static Boolean ToBoolean(object objBoolean, Boolean defaultValue)
+        public  Boolean ToBoolean(object objBoolean, Boolean defaultValue)
         {
             if (objBoolean == null)
                 return defaultValue;
@@ -55,12 +52,12 @@ namespace KansaiUtils
             }
         }
 
-        public static Boolean ToBoolean(object objBoolean)
+        public  Boolean ToBoolean(object objBoolean)
         {
             return ToBoolean(objBoolean, false);
         }
 
-        public static Byte ToByte(object objByte, Byte defaultValue)
+        public  Byte ToByte(object objByte, Byte defaultValue)
         {
             if (objByte == null)
                 return defaultValue;
@@ -75,12 +72,12 @@ namespace KansaiUtils
             }
         }
 
-        public static Byte ToByte(object objByte)
+        public  Byte ToByte(object objByte)
         {
             return ToByte(objByte, 0);
         }
 
-        public static Int16 ToInt16(Object objInt16, Int16 defaultValue)
+        public  Int16 ToInt16(Object objInt16, Int16 defaultValue)
         {
             if (objInt16 == null)
                 return defaultValue;
@@ -95,12 +92,12 @@ namespace KansaiUtils
             }
         }
 
-        public static Int16 ToInt16(Object objInt16)
+        public  Int16 ToInt16(Object objInt16)
         {
             return ToInt16(objInt16, 0);
         }
 
-        public static Int32 ToInt32(Object objInt32, Int32 defaultValue)
+        public  Int32 ToInt32(Object objInt32, Int32 defaultValue)
         {
             if (objInt32 == null)
                 return defaultValue;
@@ -115,12 +112,12 @@ namespace KansaiUtils
             }
         }
 
-        public static Int32 ToInt32(Object objInt32)
+        public  Int32 ToInt32(Object objInt32)
         {
             return ToInt32(objInt32, 0);
         }
 
-        public static Int64 ToInt64(Object objInt64, Int64 defaultValue)
+        public  Int64 ToInt64(Object objInt64, Int64 defaultValue)
         {
             if (objInt64 == null)
                 return defaultValue;
@@ -135,12 +132,12 @@ namespace KansaiUtils
             }
         }
 
-        public static Int64 ToInt64(Object objInt64)
+        public  Int64 ToInt64(Object objInt64)
         {
             return ToInt64(objInt64, 0);
         }
 
-        public static Decimal ToDecimal(object objDecimal, Decimal defaultValue)
+        public  Decimal ToDecimal(object objDecimal, Decimal defaultValue)
         {
             if (objDecimal == null)
                 return defaultValue;
@@ -155,12 +152,12 @@ namespace KansaiUtils
             }
         }
 
-        public static Decimal ToDecimal(object objDecimal)
+        public  Decimal ToDecimal(object objDecimal)
         {
             return ToDecimal(objDecimal, 0.00M);
         }
 
-        public static DateTime ToDateTime(object objDateTime, DateTime defaultValue)
+        public  DateTime ToDateTime(object objDateTime, DateTime defaultValue)
         {
             if (objDateTime == null)
                 return defaultValue;
@@ -175,20 +172,20 @@ namespace KansaiUtils
             }
         }
 
-        public static DateTime ToDateTime(object objDateTime)
+        public  DateTime ToDateTime(object objDateTime)
         {
             return ToDateTime(objDateTime, DateTime.Now);
         }
-        public static string  ToTimeString(this object objDateTime)
+        public  string  ToTimeString(object objDateTime)
         {
             return ToDateTime(objDateTime, DateTime.Now).ToString("yyyy-MM-dd HH:mm:ss:fff");
         }
-        public static String FormatCurrency(Object objDecimal, Decimal defaultValue)
+        public  String FormatCurrency(Object objDecimal, Decimal defaultValue)
         {
             return ToDecimal(objDecimal, defaultValue).ToString("F");
         }
 
-        public static String FormatCurrency(Object objDecimal)
+        public  String FormatCurrency(Object objDecimal)
         {
             return ToDecimal(objDecimal).ToString("C");
         }

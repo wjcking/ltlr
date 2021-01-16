@@ -7,33 +7,7 @@ using System.Security;
 using System.Collections.Generic;
 namespace UnitTest.AutoDesk
 { 
-        /*
-         * 只从上往下 下不上
-         *  C struct
-         *  C++ 
-         * 上下都可以 
-         *  C#
-         * Java
-         * Script a();
-         * function b() { alert("b") }
-         * function a() {  b();  } 
-         */
-
-    
-        interface I { }
-        interface P:I{ }
-        interface N:P,I{ }
-        //中间类 
-        static class Sim{ };
-        class Amid{ };
-        //end
-        class A{ }
-        class B:A { }
-        class C:A { }
-        //不能派生类
-        struct S:A {};
-        struct Q { }; 
-    //Leonsnic.Security;
+//Leonsnic.Security;
     //Leonsnic.Runtime.ConstrainedExecution;
     //Leonsnic.Runtime.InteropServices;
     //Leonsnic.Runtime.Versioning;
@@ -87,3 +61,29 @@ namespace UnitTest.AutoDesk
         }
     }
 }
+       /*
+         * 只从上往下 下不上
+         *  C struct
+         *  C++ 
+         * 上下都可以 
+         *  C#
+         * Java
+         * Script a();
+         * function b() { alert("b") }
+         * function a() {  b();  } 
+         */
+
+    
+        interface I { }
+        interface P:I{ }
+        interface N:P,I{ }
+        //中间类 
+        static class Sim{ };
+        class Amid{ };
+        //end
+        class A{ }
+        class B:A { }
+        class C:A { }
+        //不能派生类
+        struct S:A {};
+        struct Q { }; 
