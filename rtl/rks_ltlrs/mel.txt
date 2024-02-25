@@ -1,10 +1,10 @@
 ﻿rkb
 mls:kdks
-nks.nts.lts.w
+nks.nts.lts
 atr.mfs^en
 
 ank.end:lnad.ldnk
-//阮体.利伞 海豚 水母  
+//阮体.利伞:重力 海豚 水母  
 mel
 	fsh
 	lsh 
