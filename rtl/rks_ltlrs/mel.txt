@@ -5,12 +5,12 @@ atr.mfs^en
 
 ank.end:lnad.ldnk
 //阮体.利伞:重力 海豚 水母  
+msd	//tlz:ldnk
 mel
 	fsh
-	lsh 
+	lsh
+	tsh.rsh
 	trs.ast^k:lnt //luk aps
 	tsl:tfs:vst
 	hsk
-
-	msd	//tlz:ldnk
 lsa
