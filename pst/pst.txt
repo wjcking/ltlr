@@ -1,7 +1,7 @@
 ﻿/*
 *相同:帕斯卡.大气铀电 压强 Delphi Pascal
 */ 
-pst^ao
+pst
 krx.drf.psk.jxs.annl^t.jls^t
 krf^r
 klr
@@ -15,7 +15,7 @@ klr
 		现今.最快.光速.不虑刚体.打忘.极端
 		洛克:复射聚合#对觉
 	对决^绝对
-对绝昱对觉
+艾芮特次克
 
 blt.ltlr:ksh:kzn
   vtz^wu //W O L
