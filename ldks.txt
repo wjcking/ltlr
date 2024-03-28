@@ -11,5 +11,5 @@ ltl.r
   hrs
   
 	gsk:rsh:mth
-  mgn:lwk:mel
+  //mel:lwk:mgn
 mks.d
