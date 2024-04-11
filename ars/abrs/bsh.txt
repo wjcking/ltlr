@@ -20,7 +20,3 @@ brs
 bls
 
 bst.nks.mch^st
-artzk
-	//hlgt.args
-	btlck^s
-bzklk
