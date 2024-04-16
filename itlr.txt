@@ -6,7 +6,7 @@ itls:lank
 
 kb_nr:kde
 
-ltl.r
+ltl^r:rtl
   annl.lct
   hrs
   

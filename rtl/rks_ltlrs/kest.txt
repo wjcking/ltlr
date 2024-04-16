@@ -36,7 +36,7 @@ kdks.klsk.hlkt.skr^ary
   vns //Brown and grey.
   ech^s  //Blue, brown green and white.
   mrs //Red, brown and tan.
-  plt.j  //Brown, orange and tan, with white cloud stripes.
+  plt^j  //Brown, orange and tan, with white cloud stripes.
   tun^s  //Golden, brown, and blue-grey.
   vls_uw //Blue-green
   ptu^n //Blue.

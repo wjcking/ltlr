@@ -6,12 +6,8 @@
 *星际牵引 可变性
 */
 mtk_a
-rkb
-nud_o.sls_n
-bsh.ln
-hsh.l.n
-vts
 
+rkb.nud
 adv.rtl
   //sld_den
   flc.fsh^x

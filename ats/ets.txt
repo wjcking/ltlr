@@ -6,7 +6,7 @@ nts.e:r
 nks.lnt:e:r.n
 lnt^e.hsk.txh:esh:rsh.lnsh
 
-esh
+lnsh
 	//ash^ch
 	//	lbt:hlsh.nsh
 	//	nlu_s.u.bls //lsbnlu:hspnk_z
@@ -18,8 +18,8 @@ esh
 
 	//achs_esh
 	//ech^s.lnch:lnt.ys
-lnsh
+esh
 
-lty.nts:lnt.y //ltv.n ln7s.l lsls
-qty:lnt.y.bds //els chf.txqys quqs qtx
+lty.nts:lnt^y //ltv.n ln7s.l lsls
+qty:lnt^y.bds //els chf.txqys quqs qtx
 ltz^n.s:nts:atz //hnlx
