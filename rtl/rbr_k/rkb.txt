@@ -1,8 +1,8 @@
 ﻿rks.pst.knt^e
 
-sls.krs //slc jsk
+sls //slc jsk
 //地力丝 莫的 没丝
-dls:mfs:lsa
+dls:mfs:krd:lsa
 //耐柯 伯兹 克力柯 
 knd:vst
 /***柏力克***/
@@ -15,12 +15,12 @@ vls:vtx
 tls:lda
 gls
 //林各 及特 下
-lng.lnd.ltz:fant //ajt.ajr
+lng.lnd.ltz:ftn //lnt ajt.ajr
 
 mfs:dls
   bls //bsh dsh
-  ksk
+  kst
   nd:bk
-  mke:tad.mdz
-mds
+  kd:mdz:tad
+kdz
 

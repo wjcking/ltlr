@@ -10,6 +10,6 @@ ltl^r:rtl
   annl.lct
   hrs
   
-	gsk:rsh:mth
-  //mel:lwk:mgn
+	gsk	//rsh:mth RTH-SC
+	mgn:lwk//mel
 mks.d

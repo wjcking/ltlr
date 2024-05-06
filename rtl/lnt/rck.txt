@@ -11,8 +11,9 @@ ltl^s.ats.kst^a
   mrk_eaor
 lsk_c
 
-rsk^v:fks.kns
-lnt:rfb^r
+//rsk^v:fks.kns
+//lnt:rfb^r
+[vrsk-vsn]
 Interick:Interlick:Intellyic  //Intellyict
   Frisk Frick  Frik
   Furst:First 
