@@ -11,5 +11,8 @@ ltl^r:rtl
   hrs
   
 	gsk	//rsh:mth RTH-SC
-	mgn:lwk//mel
+		lwk
+		//mel
+		mch^r
+	mgn
 mks.d

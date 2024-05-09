@@ -1,19 +1,18 @@
-﻿ltlrs:vrsk.mkr
+﻿itlrs:vrsk.mkr
 ltlrs.rtl.rts.krs
 ltlr.lck.rd.bsh.hsh
 ltl^s.ats.kst^a
-  l_i
-  f_ks.avl_on
-  k_st
-  r_cs
+  li
+  fks.avl_on
+  kst
+  rcs
 
-  s_mn
+  smn
   mrk_eaor
-lsk_c
+lsk^c
 
-//rsk^v:fks.kns
-//lnt:rfb^r
-[vrsk-vsn]
+[vrsk:rsk^c-vsn]
+[vrsd:fsk^v]
 Interick:Interlick:Intellyic  //Intellyict
   Frisk Frick  Frik
   Furst:First 
