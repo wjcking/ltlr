@@ -21,7 +21,7 @@ ats //fgt^s_ao
 
 lnt.mtk.chk
 
-atc //fgt^slf^o.lsk^d.kl
+flc //fgt^slf^o.lsk^d.kl
   knx.kts //sakend
   abt.pst.krs.sxr
     mrk.lnt.chk.krt:msl_n.hdy
