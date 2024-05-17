@@ -8,7 +8,7 @@ knd:vst
 /***柏力克***/
 blk
 //莱钠的 甘的 及儿 上 分柯
-lnd:lng.hnd.lnt.fenk.gts //ajr.ajt
+lnd:lng.hnd.fenk.gde:gts:lnt //ajr.ajt
 //维切力
 vls:vtx
 //格立丝
@@ -23,4 +23,6 @@ mfs:dls
   nd:bk
   kd:mdz:tad
 kdz
+
+ats.mts //ats^m ATMS
 
