@@ -1,10 +1,10 @@
-﻿gts^sh.lnt.fks
+﻿gts^sh.lnt
 //lty.kbt_tv
-//kmtx
-
 //kal_s:ets
 //kast
-vgs_zja:wgs
+vgs_zja
+wgs
+gde
 ktn
 
 
