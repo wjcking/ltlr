@@ -1,9 +1,12 @@
 ﻿gts^sh.lnt
+
 //lty.kbt^tv
 //kal_s:ets
 //kast
-vgs-zja
+vgs-zja:vts
 	gde
+	gpr
+	gpd:tkn
 wgs
 
 ktn
