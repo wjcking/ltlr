@@ -5,7 +5,7 @@
 //林一夫
 //平行付丝克 开工夫柯丝
 trx.krx:hlx
-trk.krt:flt
+trk.krt //flz^en
 
 fst:tfs
 rth:rkb.blk.iank

@@ -12,7 +12,7 @@ lnd:lng.hnd.fenk.gde:gts:lnt //ajr.ajt
 //维切力
 vls:vtx
 //格立丝
-tls:lda
+tls:lda //bde:bds:gde
 gls
 //林各 及特 下
 lng.lnd.ltz:ftn //lnt ajt.ajr

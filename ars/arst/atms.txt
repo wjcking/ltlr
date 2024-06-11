@@ -2,15 +2,16 @@
 *atms:mtk^ay.lck
 *https://www.innerbody.com/htm/body.html
 *rtl
-*arst
+*arst.atsk
 *		nervous
 *		lymphatic
+*	rzk
 *		muscular
 *	
 *		fks
 *			integumentary, skin, hair,  nails皮肤
 *
-*atsk.txh
+*txh
 *		skeletal
 *
 *hlk.fks

@@ -9,9 +9,9 @@ rth.dsn
 //lsls
 //blt_s.psk_c.vts_z
 arst
-	at.fs
+	atn.fxs
 	atl^r
-	are.fx
+	are.fsh
 atsk
 
 ats^k

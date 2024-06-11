@@ -12,7 +12,7 @@ ltl^r:rtl
   
 	gsk	//rsh:mth RTH-SC
 		lwk
-		//mel
+		mel
 		mch^r
 	mgn
 mks.d

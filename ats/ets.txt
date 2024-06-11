@@ -5,11 +5,11 @@ lnt^s.y //E lntxys lnk.smt
 nks:lnt:e:r.n
 nts.ltl^s
 lnt^e.hsk.txh:esh:rsh.lnsh
-ltl:fks:fsh^fx
+ltl:lks:fks
 lnsh
 	//ash^ch
 	//	lbt:hlsh.nsh
-	//	nlu_s.u.bls //lsbnlu:hspnk_z
+	//	nls~u.bls //lsbnlu:hspnk_z
 	//hsh
 
 	//mtl_u_w.tls.d
@@ -21,5 +21,5 @@ lnsh
 esh
 
 lty.nts:lnt^y //ltv.n ln7s.l lsls
-qty:lnt^y.bds //els chf.txqys quqs qtx
+qty:lnt~u.bds //els chf.txqys quqs qtx
 ltz^ns:nts:atz //hnlx
