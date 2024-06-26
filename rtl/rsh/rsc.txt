@@ -4,7 +4,7 @@
 
 //ltlr\rtl\rsh\rc.txt
 伯尔柯_和可
-	引和克立可
+	引和克立可 //kls.atrzk
 	//末刻米子和
 	伯卡力_空见各
 	l l
