@@ -6,22 +6,22 @@ dls:mfs:krd:lsa
 //耐柯 伯兹 克力柯 
 knd:vst:klk.blz^A
 /***柏力克***/
-blk
+blk	//bkl:bde:bds:gde
 //莱钠的 甘的 及儿 上 分柯
-lnd:lng.hnd.fenk.gde:gts:lnt //ajr.ajt
+lng:lnd.hnd.fenk.gde//gts:lnt ajr.ajt
 //维切力
-vls:vtx
+vls:vtx //ilk AOR
 //格立丝
-tls:lda //bde:bds:gde
-gls
+tls:lda //bds:bde:gde
+gls //ktl ktr ksl
 //林各 及特 下
-lng.lnd.ltz:ftn //lnt ajt.ajr
+lnd:gte:lng.gde:ftn:ltz //lnt ajt.ajr
 
 mfs:dls
-  bls //bsh dsh
+  nfs
   kst
-  nd:bk
-  kd:mdz:tad
+  bls^A//bkl:end
+  kd:mdz
 kdz
 
 ats.mts //ats^m ATMS

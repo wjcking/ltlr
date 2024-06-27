@@ -13,7 +13,7 @@ fks_e()
   //asn_th
   ats.knd^sal
   bts.rl//Beyines:Booleaned
-  ksk
+  kst
     lnt.lat
     wts:wth^c
   tnk^d.lbt

@@ -19,12 +19,12 @@ klr
 
 blt.ltlr:ksh:kzn
   vtz^wu //W O L
-  tlz.u
-  tlz.fks.un
+  tlz^u
+  tlz.fks^un
 vls.vts.lnt
 /******/
-比力:因特利尔
-伯利:英特里克
+比力^丝:因特利尔
+伯利卡:英特里克
 
 klt^s
 vst^w
@@ -41,7 +41,7 @@ knt^i:mth
 knt_e
 
 knt^an
-	glb^wo:wkd //ats.lnt.mkr-glb:rpt
+	glb^wo:wkd //ats.lnt.mkr-glb:RPT
 knt^ao_ln
 /******/
 数量-重复
@@ -60,13 +60,15 @@ kzn
 序列:付动 用动 栈动 开尔锐特
 
 kct.ist-vzs
-dls^z:trs^x
-rft:fld:ftn
+fld:rft:ftn
+trs^Tx
+	srt //ZELD^A
+dls^z
 /******/
-芮付特
+夫来的
 	众说纷纭 看似有序.数多先优    
   浮动:伏特:付来的:菲尔的:菲利特
-  量术.一个: 海洋全球通
+  量术.一个:海洋全球通
   程度.广透 深度.色彩情感
   波动:付礼特:萨复特:萨尔复特.塞尔复得.塞尔达 
-夫来的
+芮付特

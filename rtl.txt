@@ -10,8 +10,6 @@ rtl.ltls
   crl.wh.fch.s//力切维.谁更水:事纸致  
 rl.ltbs
 
-//rtl.rbr^k.rkb
-//rtl.blz_d.brs
-//rtl.rzs.blz_hvy
-
-rtl.rts:hrs //HRK
+//HRK
+//rbr^k.rkb
+rtl.rts:hrs 
