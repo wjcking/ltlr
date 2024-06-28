@@ -18,10 +18,10 @@ gls //ktl ktr ksl
 lnd:gte:lng.gde:ftn:ltz //lnt ajt.ajr
 
 mfs:dls
-  nfs
-  kst
-  bls^A//bkl:end
-  kd:mdz
+	nfs
+	kst
+	ben^N// bls^A bkl:end
+	kd:mdz
 kdz
 
 ats.mts //ats^m ATMS
