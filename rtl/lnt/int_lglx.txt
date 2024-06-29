@@ -52,12 +52,14 @@ lnt
 	//lwsk:rcs
 	//ksl.esh
   因忑立尔^开比奴尔
-  米纳柯-卡丝特
+  米子柯-卡丝特
 		//kix^o.pzh.zch~ibt:rst^a
-		//IHJ^X:JAPANESE KOREA KRLT^I ABRZ
-		柯纳米 柯汭儿 高距离 给沟尼
-		//pup dab adr^u
-		//sit sak vst^a
+		//ZHANPWSH:IHJ_LYX:JAPANESE KRLT~I ABRZ		
+		柯纳米 柯汭儿
+		//KOREA  
+		//高距离 给沟尼
+		//PUP DAB ADR^U
+		//SIT SAK VST^A
 		物理目桄
 			人丫压余渴:仁牙亚水咀 //河准
 			牙眼从册这 //彻 测
