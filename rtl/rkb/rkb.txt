@@ -20,7 +20,7 @@ lnd:gte:lng.gde:ftn:ltz //lnt ajt.ajr
 mfs:dls
 	nfs
 	kst
-	ben^N// bls^A bkl:end
+	bon// bls:bns^A:bkl:end
 	kd:mdz
 kdz
 

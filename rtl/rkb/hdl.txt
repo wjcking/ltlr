@@ -3,7 +3,7 @@
 //nak.vst
 
 atv.trk
-	//asnd
+	//asnyd
 	//artzk
 	//dsh gst
 	//hdz.hzh

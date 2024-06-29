@@ -7,6 +7,6 @@
 trx.krx:hlx
 trk.krt //flz^en
 
-fst:tfs
+fsk:tfs~kst
 rth:rkb.blk.iank
 mth:kbt

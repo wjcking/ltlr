@@ -1,16 +1,16 @@
 ﻿rkb
 mls:kdks
 nks.nts.lts
-atr.mfs^en
+txh.mfs^en
 
 ank.end:lnad.ldnk
-//阮体.利伞:重力 海豚 水母  
-msd	//tlz:ldnk
+//阮体.利伞:GAYA_人-重力 海豚 水母  
+msd	
 mel
 	fsh
 	lsh
 	tsh.rsh
 	trs.ast^k:lnt //luk aps
-	tsl:tfs:vst
+	tsl:tfs:vst	//tlz:ldnk
 	hsk
 lsa
