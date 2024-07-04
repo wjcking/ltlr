@@ -1,8 +1,8 @@
 ﻿/*
-*atms:mtk^ay.lck
+*ATMS:MTK^AY.LCK
 *https://www.innerbody.com/htm/body.html
 *rtl
-*arst.atsk
+*atsk.arst
 *		nervous
 *		lymphatic
 *	rzk

@@ -7,13 +7,17 @@ lsk^c
 r.n
 atb:abt//元术:述远 
   a.s^x
-    ray //远木术 中希互 卬 系中处
-    ary //元术木 元之 止远 冲草之 次
+	//远木束 
+	//中希豖  系中束 互 卬
+    ray 
+	//元束卡 元之 止远 元水 
+	//冲草之 次
+    ary 
 
-    ary  //元仕 希 士 于余
+    ary  //元水 希 士 于余
     ray//仁兀士   
   e.x
-arst.jsk:r^vy//元士 系 余干 仕
+arst.jsk:r^vy//元士 系 余 干 水
 
 r.l
 l.sks

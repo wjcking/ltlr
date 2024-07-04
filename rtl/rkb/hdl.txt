@@ -3,9 +3,9 @@
 //nak.vst
 
 atv.trk
-	//asnyd
-	//artzk
-	//dsh gst
+	//ASNYD
+	//ARTZK
+	//DSH GST
 	//hdz.hzh
 bds.vy
 

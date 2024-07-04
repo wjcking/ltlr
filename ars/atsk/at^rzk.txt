@@ -1,6 +1,6 @@
 ﻿txh.rzk
 
-tx:q.ao
+tx//qao
 	sh
 	ch
 	zh
