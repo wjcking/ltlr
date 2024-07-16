@@ -12,7 +12,7 @@ rkb //nd
 adv.rtl
   //sld_den
   flc.fsh^x
-		fbn^d //被定兴
+		fbn^d //被丁兴
 	fld
 vgs
 
