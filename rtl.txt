@@ -2,7 +2,7 @@
 
 rtl
 	r.n //元史
-	//艾森折 
+	
 	rl.vh.vch:lvs//丝力 位
 	rzs//中东
 	lr.vts.th //七元.水:更
@@ -10,6 +10,7 @@ rtl
 	crl.wh.fch.s//力切维.谁更水:事纸致  
 ltls
 
-//HRK
-//rbr^k.rkb
-rtl.rts:hrs 
+//艾森折^林 米子柯 AZT^ZH
+//rsk^vd:ast^zh.txk
+//rbr^k.hrk:rkb
+rtl.rts:hrs
