@@ -1,6 +1,6 @@
 ﻿rks.pst.knt^e
 
-sls //flc jxs
+sls //flz jxs
 //地力丝 莫的 没丝
 dls:mfs:krd:lsa
 //耐柯 伯兹 克力柯 
@@ -8,20 +8,21 @@ knd:vst:klk.blz^A
 /***柏力克***/
 blk	//bkl:bde:bds:gde
 //莱钠的 甘的 及儿 上 分柯
-lng:lnd.hnd.fenk.gde//gts:lnt ajr.ajt
+lng:lnd.gde.hnd.fenk //gts:lnt ajr.ajt
 //维切力
-vls:vtx //ilk ORK
+irk:vls:vtx //ORK
 //格立丝
-tls:lda //bds:bde:gde
-gls //ktl ktr ksl
+trs:tls:lda //bds:bde:gde
+ktr:ktl:ksl~gls //
 //林各 及特 下
-lnd:gte:lng.gde:ftn:ltz //lnt ajt.ajr
+lnd:gte:lng.gts:ftn:ltz //lnt ajt.ajr
 
 mfs:dls
 	nfs
 	kst
-	bon// bls:bns^A:bkl:end
-	kd:mdz
+	bls^A //bon:bns:bkl:end
+		kd:ytl:ktn
+	mdz
 kdz
 
 ats.mts //ats^m ATMS

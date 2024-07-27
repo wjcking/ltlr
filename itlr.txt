@@ -7,12 +7,12 @@ itls:lank
 kb_nr:kde
 
 ltl^r:rtl
-  annl.lct
-  hrs
+	annl.lct
+	rcs
   
 	gsk	//rsh:mth RTH-SC
 		mch^r
 		lwk
-		mel
-	mgn
+		mgn.mel
+	hrs
 mks.d
