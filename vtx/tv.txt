@@ -16,10 +16,10 @@
 //https://zh.m.wikipedia.org/wiki/史前时代
 //rks.vls^ch
 //aztk.asn_zh^m.asn_ch_r^c
-今一人石:木七十切			
+斤一人石:木七十切			
 //abrs.slaws:long,slaf:a*l
 //ch.tx.fs  w.euo.aa
-金石维卡^来钛 //水及人莱 采 林 维三忑
+今水维卡^来钛  //水及人莱 采 林 维三忑
 
 //rastera\intellyer\rishery.html
 //rastera\kerlis\seykast.html

@@ -8,10 +8,10 @@ asn.k
 azt.k
 
 atsk:hbe
-rkb.e
+rkb
 	brk.lck
-	bzk.klk
+	blz.klk
 	kdz
-rbk.h
+brk
 
 atz.ltz^n:azt.k

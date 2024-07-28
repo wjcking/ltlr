@@ -7,13 +7,10 @@
 *		lymphatic
 *	rzk
 *		muscular
-*	
 *		fks
 *			integumentary, skin, hair,  nails皮肤
-*
-*txh
+*txk
 *		skeletal
-*
 *hlk.fks
 *		respiratory
 *klh

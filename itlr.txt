@@ -8,7 +8,7 @@ kb_nr:kde
 
 ltl^r:rtl
 	annl.lct
-	rcs
+	rzk
   
 	gsk	//rsh:mth RTH-SC
 		mch^r

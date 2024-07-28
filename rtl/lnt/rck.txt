@@ -13,37 +13,37 @@ lsk^c
 
 [vrsk:rsk^c-vsn]
 [vrsd:fsk^v]
-Interick:Interlick:Intellyic  //Intellyict
-  Frisk Frick  Frik
-  Furst:First 
-  Fresk Ricks Frizt 
-  Frinked
-  Fread Fured Fraud
+INTERICK:INTERLICK:INTELLYIC  //INTELLYICT
+  FRISK FRICK  FRIK
+  FURST:FIRST 
+  FRESK RICKS FRIZT 
+  FRINKED
+  FREAD FURED FRAUD
 
-  Frescka-humans
-  Friskea-Wistron
-  Ricks:Anni
-  Riskeful:Animal
-    Risckfuel:Anymals
-  Frinked:Insecks
+  FRESCKA-HUMANS
+  FRISKEA-WISTRON
+  RICKS:ANNI
+  RISKEFUL:ANIMAL
+    RISCKFUEL:ANYMALS
+  FRINKED:INSECKS
 
-  //Herzk*
-  //Intlihk Helik
-  //Inhtlik Inkhelit
+  //HERZK*
+  //INTLIHK HELIK
+  //INHTLIK INKHELIT
 
-  Entrike:Encheek
-  Enkelik
+  ENTRIKE:ENCHEEK
+  ENKELIK
 
-  Incite
-  Incike //Insike Inseek 
-  Inseake
-  Insecket Inseast 
+  INCITE
+  INCIKE //INSIKE INSEEK 
+  INSEAKE
+  INSECKET INSEAST 
 
-  Inkerik:Inkerit
+  INKERIK:INKERIT
 
-  Interik:Inkerit.Enhelick
+  INTERIK:INKERIT.ENHELICK
 
-  Inkelik:Inkelit
-  Intelik:Inkelit
+  INKELIK:INKELIT
+  INTELIK:INKELIT
 
-Inherick:Inhellick
+INHERICK:INHELLICK
