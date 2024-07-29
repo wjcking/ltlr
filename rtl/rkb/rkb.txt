@@ -13,7 +13,7 @@ lng:lnd.gde.hnd.fenk //gts:lnt ajr.ajt
 irk:vls:vtx //ORK
 //格立丝
 trs:tls:lda //bds:bde:gde
-ktr:ktl:ksl~gls //
+ktr:ktl:ksl~gls //flc:tfs:kdr
 //林各 及特 下
 lnd:gte:lng.gts:ftn:ltz //lnt ajt.ajr
 
