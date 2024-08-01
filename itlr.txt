@@ -6,13 +6,14 @@ itls:lank
 
 kb_nr:kde
 
-ltl^r:rtl
+ltl^r
 	annl.lct
 	rzk
   
-	gsk	//rsh:mth RTH-SC
-		mch^r
+	gsk	//rsh:mth 
+		<RTH-SC>
+		mch^r //mks
 		lwk
-		mgn.mel
+		mgn //mel
 	hrs
-mks.d
+rtl
