@@ -1,12 +1,6 @@
-﻿//立 面 么
-//水及(交)类人仨 来 台
-//人来平行面 视交 干决 无
-//
-//林一夫
-//平行付丝克 卡工夫柯丝
-trx.krx:hlx
-trk.krt //flz^en
+﻿~kst
+trk.krt
+flz^en
+fsk
 
-fsk:tfs~kst
 rth:rkb.blk.iank
-mth:kbt
