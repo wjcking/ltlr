@@ -8,7 +8,7 @@ knd:vst:klk.blz^A
 /***柏力克***/
 blk	//bkl:bde:bds:gde
 //莱钠的 甘的 及儿 上 分柯
-lng:lnd.gde.hnd.fenk //gts:lnt ajr.ajt
+lng:lnd.gde.fenk //gts:lnt hnd.ajr.ajt
 //维切力
 irk:vls:vtx //ORK
 //格立丝
