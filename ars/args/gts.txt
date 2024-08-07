@@ -2,7 +2,7 @@
 ktz^s:itlr.hrk
 kts:itls
 
-//VRSK KLD
+//KLD VRSK
 tfs:kbt.rst.vsd 
 //nts
 ktn:tkn
