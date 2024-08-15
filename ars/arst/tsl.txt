@@ -9,8 +9,8 @@ trs:kt_ao.ktz_l //ket
 
   rsk.skr:kst_a.fsk
   //丝沃科元
-	//初电 导电  地占 中天  
-	//地米 闪电 切池
+	//初电 地占 中天 导电
+	//地米 切池 电闪
   txc.tsl //artzk
     tr^on:trk //Tiron Titanium
     tch.ark.lnt.tas^l

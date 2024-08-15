@@ -40,7 +40,7 @@ knt.kns
 knt^i:mth
 knt_e
 
-knt^an
+knt^ang
 	glb^wo:wkd //ats.lnt.mkr-glb:RPT
 knt^aln
 /******/
