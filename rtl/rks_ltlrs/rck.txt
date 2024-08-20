@@ -14,6 +14,7 @@
 *hominins:khmer:vrsd
 */
 vst.lck^r.txh
+
 /*
 *作受相 手皿地 蜥蜴  需比达勃 //Ripdap?.Jaoint.Apisake
 *Pithecus Sympathetc Monkey 
@@ -27,22 +28,22 @@ vst.lck^r.txh
 *  Cro-Magnon
 *  Neanderthals,Denisovans
 *Clothes~Utility^Sequalent
+
+*Ryske.Keris:Smlnk.Aymerk
 */
-//Ryske.Keris:Smlnk.Aymerk
-lck^g
-  ach:ape.lsk bbw.nsk
-  mts:mnk_an.plt^s 
-  grs:grl_a.dvd_e
-  
-  pzh_ch.prt_s:brt.sl
-  pth.kts_c
-  
-  //dkbt
-  //ltlrs.tbln.rmw.rtn
+lck:grs
 hlk.kdks:mtk.ldnk
 
-ktn.rnb.dub
-	atv.rkx
-	atr_c.akr //Oracle Alcohol
-	klsdn
-abs
+ACH:APE.LSK BBW.NSK
+MTS:MNK_AN.PLT^S 
+GRL^A.DVD^D:KKB
+
+PZH^CH.PRT^S:BRT^SL
+PTH.KTS
+DKBT
+LTLRS.TBLN.RMW.RTN
+
+KTN.DUB
+ATR.AKR //ORACLE ALCOHOL
+KLSDN
+
