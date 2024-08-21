@@ -10,7 +10,7 @@ blk	//bkl:bde:bds:gde
 //莱钠的 甘的 及儿 上 分柯
 lng:lnd.gde.fenk //gts:lnt hnd.ajr.ajt
 //维切力
-irk:vls:vtx //ORK
+irk:vls:vtx //OR^K
 //格立丝
 trs:tls:lda //bds:bde:gde
 ktr:ktl:ksl~gls //flc:tfs:kdr
@@ -18,10 +18,12 @@ ktr:ktl:ksl~gls //flc:tfs:kdr
 lnd:gte:lng.gts:ftn:ltz //lnt ajt.ajr
 
 mfs:dls
-	nfs
+	nfs //bsh^nsh
 	kst
-	bls^A //bon:bns:bkl:end
-		kd:ytl:ktn
+	//GLS:KDR:NWD^O:BIK
+	//bns:bkl:end
+	bls^A 
+		kd:ytl:ktn:bon
 	mdz
 kdz
 

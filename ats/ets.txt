@@ -2,9 +2,9 @@
 nks.vts.vls //ftn.kbt.lnch_e
 lnt^s.y //E lntxys lnk.smt
 
-nks:lnt:e:r.n
-nts.ltl^s
-lnt^e.hsk.txh:esh:rsh.lnsh
+nks:lnt:E:R.N
+nts.itl^s
+lnt^e.hsk.txh:esh:lnsh:rsh
 ltl:lks:fks
 lnsh
 	//ash^ch
@@ -20,6 +20,6 @@ lnsh
 	//ech^s.lnch:lnt^ys
 esh
 
-lty.nts:lnt^y //ltv^n ln7s.l lsls
+lty.nts:lnt^y //ltv^n lntv ln7s.l lsls
 qty:lnt~u.bds //els chf.txqys quqs qtx
 ltz^ns:nts:atz //hnlx
