@@ -16,8 +16,8 @@ bl^a
   rbk
   annl.wks_c
   dnt_ln
-		btk_n
-		btk_ao.tsl
+		btk^n
+		btk^ao
   dnk_ai:aps.k.abs
 abrs.k
 

@@ -9,7 +9,7 @@ ltl:lks:fks
 lnsh
 	//ash^ch
 	//	lbt:hlsh.nsh
-	//	nls~u.bls //lsbnlu:hspnk_z
+	//	nlus:bls //lsbnlu:hspnk_z
 	//hsh
 
 	//mtl_u_w.tls.d

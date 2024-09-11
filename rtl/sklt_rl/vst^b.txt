@@ -16,3 +16,5 @@ adv.rtl
 	fld
 vgs
 
+ktrzk:rtl:lr:lxr
+

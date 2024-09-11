@@ -7,7 +7,7 @@ lnt.chk
 		gls_j_zh
   sld.nke
 
- //lsnshal essential
+ //ISNSHO ESSENTIAL
   md.shp.lys
   bnt.bts.blst.wfr//nbr  迁引士 邪性
   ady.bts.bds //vgs.hzh.bfr
