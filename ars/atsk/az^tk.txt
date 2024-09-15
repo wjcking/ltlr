@@ -6,8 +6,8 @@ klz
   lks.atsk.lnt
   //msv^wtx.hzt
   
-	//arst.gts.atr
-	//  aref.skst.lvlk^vst
-	//  akr.zsn.fsh_ets
+	//ARST
+	//  AREF.SKST.LVLK^VST
+	//  AKR.ZSN.FSH_ETS
 klt:lck
 
