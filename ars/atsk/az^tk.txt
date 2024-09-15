@@ -2,7 +2,7 @@
 hsk.hdl
 blt.fld
 
-klc
+klz
   lks.atsk.lnt
   //msv^wtx.hzt
   

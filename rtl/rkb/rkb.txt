@@ -1,31 +1,31 @@
-﻿rks.pst.knt^e
+﻿RKS.PST.KNT^E
 
-sls //flz jxs
+SLS //FLZ JXS
 //地力丝 莫的 没丝
-dls:mfs:krd:lsa
+DLS:MFS:KRD:LSA
 //耐柯 伯兹 克力柯 
-knd:vst:klk.blz^A
+KND:VST:KLK.BLZ^A
 /***柏力克***/
-blk	//bkl:bde:bds:gde
+BLK	//BKL:BDE:BDS:GDE
 //莱钠的 甘的 及儿 上 分柯
-lng:lnd.gde.fenk //gts:lnt hnd.ajr.ajt
+LNG:LND.GDE.FENK //GTS:LNT HND.AJR.AJT
 //维切力
-irk:vls:vtx //OR^K
+IRK:VLS:VTX //OR^K
 //格立丝
-trs:tls:lda //bds:bde:gde
-ktr:ktl:ksl~gls //flc:tfs:kdr
+TRS:TLS:LDA //BDS:BDE:GDE
+KTR:KTL:KSL~GLS //FLC:TFS:KDR
 //林各 及特 下
-lnd:gte:lng.gts:ftn:ltz //lnt ajt.ajr
+LND:GTE:LNG.GTS:FTN:LTZ //LNT AJT.AJR
 
-mfs:dls
-	nfs //bsh^nsh
-	kst
+MFS:DLS
+	NFS //BSH^NSH
+	KST
 	//GLS:KDR:NWD^O:BIK
-	//bns:bkl:end
-	bls^A 
-		kd:ytl:ktn:bon
-	mdz
-kdz
+	//BNS:BKL:END
+	BLS^A 
+		KD:YTL:KTN:BON
+	MDZ
+KDZ
 
-ats.mts //ats^m ATMS
+ATS.MTS //ATS^M ATMS
 
