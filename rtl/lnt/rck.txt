@@ -11,8 +11,8 @@ ltl^s.ats.kst^a
   mrk_eaor
 lsk^c
 
-[vrsk:rsk^c-vsn]
-[vrsd:fsk^v]
+(&vrsk:rsk^c-vsn)
+(&vrsd:fsk^v)
 INTERICK:INTERLICK:INTELLYIC  //INTELLYICT
   FRISK FRICK  FRIK
   FURST:FIRST 

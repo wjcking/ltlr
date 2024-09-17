@@ -15,5 +15,7 @@ ltl^r
 		mch^r //mks
 		lwk
 		mgn //mel
+		<MTH~SC>
+		rls
 	hrs
 rtl

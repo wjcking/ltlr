@@ -12,5 +12,5 @@ ltls
 
 //艾森折^林 米子柯 AZT^ZH^M
 //rsk^vd:ast^zh.txk
-//rbr^k.hrk:rkb
+//rbr^k:rkb.hrk
 rtl.rts:hrs
