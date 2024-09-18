@@ -1,0 +1,8 @@
+﻿
+tv:l	//lvch ln7s
+	sh
+	ch
+	zh
+	//rns
+	th
+tx//qao
