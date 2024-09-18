@@ -1,5 +1,4 @@
-﻿
-tv:l	//lvch ln7s
+﻿tv//lvch ln7s
 	sh
 	ch
 	zh
