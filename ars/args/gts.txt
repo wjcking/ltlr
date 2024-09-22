@@ -7,11 +7,7 @@ tfs:kbt.rst.vsd
 //nts
 ktn:tkn
 
-//vgs^e:wgs^i1
-//	gpr
-//	gpd
-//	gde
-//	kal_s:ets
+
 //	lty.kbt^tv
 //	kast
 //vzs^ja.gts:zja.jxs
