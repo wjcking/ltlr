@@ -17,5 +17,8 @@ ltl^r
 		mgn //mel
 		<MTH~SC>
 		rls
-	hrs
+	gst
+	
+	[fsn:dst]
+	gsk:hrs:bsk:txk
 rtl
