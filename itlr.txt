@@ -19,6 +19,6 @@ ltl^r
 		rls
 	gst
 	
-	[fsn:dst]
+	[fsn:dst:srd]
 	gsk:hrs:bsk:txk
 rtl
