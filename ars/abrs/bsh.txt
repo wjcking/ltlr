@@ -10,7 +10,7 @@ brs
 
   plg:blk.lrgs
   blz.klk //及什
-  kbr^w.krk.bsh.kb_nr //卡不二 比什卡克
+  kbr^w.krk.bsh.kb_nr //卡波二 比什卡克
  
   //ets
   bsh_e.rpk

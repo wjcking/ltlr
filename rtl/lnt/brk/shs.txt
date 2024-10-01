@@ -1,36 +1,38 @@
 ﻿沙哈巴
-  和来可.克拉和与(若,右)佟士元(刃)
+  和来可.克拉和与(若,右)佟水元(刃)
   拉合尔.和余佟.人水元:类人远 佟士元 
   芮泊尔.云及.几云.与和波 //k l s t
-  几及
-    术远.生述.几吐
-    土几 及曰 吐绝 几突 土方 吐反 吐蕃
-    忑可 特克
+  及几
+    术远.生述.几忐^吐 他及卡
+		吐反  土介^约 吐波忑//约丝忑 特水 突厥
+    几互  
   介节
-  于波来.四可忐.波安忑忐
+  于波来.丝可忐.波安忑忐
     安卡尔.河来柯
     安道尔:力柯克:拉合儿
     卡尔夫忑 来拉合//kfs.flt
     卡二芮忑 河来柯 
-    卡拉奇 流比奇(切义) 六七卡 咔啦沁
-  克兰河:负特.波动 
+    咔啦芹 卡拉奇 流比奇(切义) 六七卡 
+  克兰河:夫特.波动 
 沙赫仑
 
 atb
-shs^h
-shb^ha
-shl.lun
+	shs^h:shk
+	shb^ha
+	shl.lun
+rtl
 
-brs.hdr.rd
-  shs:wgs:hsh_k
-  lhr
-  klh
-	lvch
-lks
+BRS.HDR.RD
+  SHS:WGS:SHK
+	//艾米约丝^我纶 阿克今丝 
+	//VBST
+	//ARE.GWS^Z:AGZHS
+	//SMAO(E)BIGE(W)AMID
+	//ABWLZ:BTLCK 
+	//IBWDWLE
+	//PTGL
 
-//艾尔古丝 阿克几丝 
-//WAB.ST.WC//SMAO(E)BIGE(W)AMID
-//ars.aks
-//ablz.klk^c //are.ges bly.aztk txy.mel
-//  ptgl
-//agzhs
+  LHR
+  KLH
+	LVCH
+LKS
