@@ -16,7 +16,7 @@
   克兰河:夫特.波动 
 沙赫仑
 
-atb
+atn:atb
 	shs^h:shk
 	shb^ha
 	shl.lun
