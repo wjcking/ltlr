@@ -3,18 +3,17 @@ mls:kdks
 nks.nts.lts
 txh.mfs^en
 
-ank.end:lnad.ldnk
 /*
 *MDS.NGS:MEN DWOSA  
 *GAYA 人-重力 
 *阮体.利伞
 *水母 海豚
 */
-msd	
-mel
+msd
+mls
 	fsh.lsh.tsh:rsh
 	trs.ast^k:lnt //luk aps
-		//land ldnk
+		//lnad ldnk land
 		lnt.lnk^klk.kbt
 		kst.kls.ktrzk
 		//CHAFWO:SMAZR^ETS~SMOTHER
@@ -22,4 +21,4 @@ mel
 		//LRVSK:ASNYK:LDNK
 		tsl.tlz
 	hsk
-lsa
+mel.lsa
