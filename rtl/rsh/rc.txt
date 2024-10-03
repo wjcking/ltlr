@@ -43,9 +43,9 @@
 	
 论克中
 	子干
-		子己~幻柯 //ZieHai Hz
+		子己~幻柯 
 		<#zh-zhl:lck_y_f^lglx>
-		<#kld~lsd:kzt:kiz>
+		<#kld~lsd:kzt:kiz>//ZieHai Hz
 		子各.子卡
 			(~nzd:nsk:nks)
 			(尼子的#卡米)
@@ -57,7 +57,7 @@
 			<鬼吾破>
 	子系^仔及#l及辛^心
 	字予中^系
-		//一人饮 今
+	//一人饮 今
 	子炎字予中
 之系冲 
 

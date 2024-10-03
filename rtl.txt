@@ -10,15 +10,9 @@ rtl
 	crl.wh.fch^s//力切维.谁更水:事纸致  
 ltls
 
-//艾森折^林 米子柯 
-//RSK^VD
-//RBR^K:RKB.HRK
-IST^A.TXH^K //TH^CHE ZE H ZHE 
-AZT^K^TH 
-IST^A^ZHE^M
-LRVSK^NG^C
-	//SRK^SHWO ITR
-	ING^LSK^C.WKD:WCK^LR
-LNVCK^ANG:GRS^L:LANGVCK
-
+/*
+*艾森折^铭^林:米子柯 
+*rsk^vd
+*rbr^k:rkb.hrk
+*/
 rtl.rts:hrs

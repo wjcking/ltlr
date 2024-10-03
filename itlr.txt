@@ -13,10 +13,10 @@ ltl^r
 	gsk	//rsh:mth 
 		<RTH-SC>
 		mch^r //mks
-		lwk
-		mgn //mel
 		<MTH~SC>
 		rls
+		lwk
+		mgn //mel
 	gst
 	
 	[fsn:dst:srd]
