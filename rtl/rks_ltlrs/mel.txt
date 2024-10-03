@@ -18,6 +18,7 @@ mel
 		lnt.lnk^klk.kbt
 		kst.kls.ktrzk
 		//CHAFWO:SMAZR^ETS~SMOTHER
+		//STK:SDK^LN:SDINK
 		//LRVSK:ASNYK:LDNK
 		tsl.tlz
 	hsk
