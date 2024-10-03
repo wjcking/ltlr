@@ -6,9 +6,9 @@ tzh
 卡路四_巴希方_卡两(亮,立卬,李昂)河
 柯
 	水士一安卬
-	地印(艾)安阿厄 //Ayend_Wemiz(Czs)_Hh
+	地印安阿厄 //Ayend_Wemiz(Czs)_Hh
 	丫一安阿和
-	以个来立各^我吾 //Awrik.Linge
+	以个来立各^吾我 //Awrik.Linge
 	客个更格克 
 		厄//abt
 		和
@@ -21,8 +21,11 @@ tzh
 	仁和可立卡
 	应忑立次卡
 	<#zhl>
-	印河立合卡 子柯:应合河力卡 及河卡 太和
 	石合卡力可
+	印河立合卡
+	应合河力卡 
+	及河卡 子柯 太和 忑卡
+
 	埃特米兹卡
 何
 
@@ -34,10 +37,11 @@ tzh
 		仍若纳米木^义  //rsk NSK enk
 	
 		一米义合木(皮) 木义米(名) 丝忑(可)木
-		以米(于若)一刻木 木丝忐[忑]木人卡
-		及皮出 互布楚 纳几波 //皮互木
-		//WVA?.ARGS^TXOJISINA:NIK~LAN
-		//atsk.atn:tls^w
+		以米(于若)一刻木 木人卡 木丝忐
+		及皮出 互布楚 纳几波 //互皮处
+		//TLF^W
+		//IRWO GWS
+		//TXQ.JSN^NA:NIKLAOI:LVX
 		拉系丫 五未玩 希伢子 
 	水忑柯
 	
@@ -46,6 +50,6 @@ tzh
 
 	安地安尼  地卡(次)忑卡(忐) 尼卡
 	丝门钛卡
-	忑卡:丝特 //da layge rik elous
+	丝特:忑卡
 
-艾萨尼牙的:阿萨尼卡 //ASNYAK_D.KST.KBT:KLD
+艾萨尼牙的:阿萨尼卡 //ISNYAK^D.KZT.KBT.RDLSK~KLD

@@ -4,13 +4,21 @@ nks.nts.lts
 txh.mfs^en
 
 ank.end:lnad.ldnk
-//阮体.利伞:GAYA_人-重力 海豚 水母  
+/*
+*MDS.NGS:MEN DWOSA  
+*GAYA 人-重力 
+*阮体.利伞
+*水母 海豚
+*/
 msd	
 mel
-	fsh
-	lsh
-	tsh.rsh
+	fsh.lsh.tsh:rsh
 	trs.ast^k:lnt //luk aps
-	tsl:tfs:vst	//tlz:ldnk
+		//land ldnk
+		lnt.lnk^klk.kbt
+		kst.kls.ktrzk
+		//CHAFWO:SMAZR^ETS~SMOTHER
+		//LRVSK:ASNYK:LDNK
+		tsl.tlz
 	hsk
 lsa
