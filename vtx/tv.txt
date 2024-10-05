@@ -17,10 +17,10 @@
 斤一人石:木七十切			
 
 //flc.lan.tvx:ets
-//		zch:ltxs:nth
-//		flx_lai.eng
-//		flx^lin.eng
-//		aths:echs
+//	zch:ltxs:nth
+//	flx_lai.eng
+//	flx^lin.eng
+//	aths:echs
 //flz.len
 //水及人莱^采:维三忑
 //风来希^林
