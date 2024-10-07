@@ -24,12 +24,13 @@ klt.lnt
 lck.rd
 
 //sklt.rl
-夫丝克.芮丝特 //FSK A SAYERIFT ALFLED FIRSIT 
-维沉思.直立.起源
-沉斯维:中立 立直 //#zhl 太安平应之
+夫丝克.丝特维 //FSK A SAYERIFT ALFLED FIRSIT 
+维沉思.直立.源起
+沉斯维:中立 直立 //#zhl 太安平应之
 
 任士元
-	没在陈^安//初升 圣初
+	没在陈^安
+		涿水 //系彻 圣处
 		维水没^美
 		汇水谁
 	陈水没
