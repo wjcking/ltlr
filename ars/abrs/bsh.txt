@@ -9,11 +9,11 @@ brs
 	lts^ruw.vts //ae w o
 
   plg:blk.lrgs
-  blz.klk //及什
+  klk.blz//及什
   kbr^w.krk.bsh.kb_nr //卡波二 比什卡克
  
   //ets
-  bsh_e.rpk
+  //BSH_E.RPK
   //psh^ao:rbk_al
   //bch:nch:nks
   //bch^al:ns_e:ech^s
