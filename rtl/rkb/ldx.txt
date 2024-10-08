@@ -38,21 +38,16 @@ Ayelsion.Ocean.Habit
   Analytick~Inhabit
   Axis:Offset:Center
 Ryske.Hande.Gende
-\\钲放元天侧
-\\分方木人特
-\\视丑人为斗
-\\转涿和兰柯
-\\[AT:K^S] 
-\\阿兹天克 
-\\目测:分克 艾 方忑 忑柯 印合力刻 互地 互环
-ACHES
-  IRGS:VK_IN^R_N:SLVS_WF:SARFT_I //ACCESS-TERM/ALFED.HTML
-  AIKESAIS.SWIDEN
-  //AXIS TH C 
-  WITS:SWISS(LNT:Z)LAND  
-  
-  //RASTERA\ACCENTURAL\CHAOS-KOMET.HTML
-ITX^D //VISAID
+
+//涿之米^维切力:热若我
+aches
+  irgs:vk_in^r_n:slvs_wf:sarft_i //access-term/alfed.html
+  aikesais.swiden
+  //axis th c 
+  wits:swiss(lnt:z)land  
+  dzh
+  //rastera\accentural\chaos-komet.html
+itx^d //visaid
 
 Entrike
 Rayberk
