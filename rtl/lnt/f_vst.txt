@@ -45,7 +45,7 @@ lck.rd
 元水人
 
 维沉思.直立.源起
- //#zhl Yamato Minzoku
- やまとみんぞく
- 太安平应之
+	//#l^zh Yamato Minzoku
+	やまとみんぞく
+	太安平应之
 沉斯维:中立 直立
