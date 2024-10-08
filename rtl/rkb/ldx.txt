@@ -39,18 +39,20 @@ Ayelsion.Ocean.Habit
   Axis:Offset:Center
 Ryske.Hande.Gende
 \\钲放元天侧
-\\分方木人特[AT:K^S]目测:分克 艾 方忑 
-\\  阿兹天克 柯忑 印合力刻 互地 互环
+\\分方木人特
 \\视丑人为斗
-\\专州和兰柯
-Aytes:Aiches
-  irgs:vk_in^r_n:slvs_wf:sarft_i //access-term/alfed.html
-  Aikesais.Swiden
-  //Axis Th C 
-  Wits:Swiss(lnt:Z)Land  
+\\转涿和兰柯
+\\[AT:K^S] 
+\\阿兹天克 
+\\目测:分克 艾 方忑 忑柯 印合力刻 互地 互环
+ACHES
+  IRGS:VK_IN^R_N:SLVS_WF:SARFT_I //ACCESS-TERM/ALFED.HTML
+  AIKESAIS.SWIDEN
+  //AXIS TH C 
+  WITS:SWISS(LNT:Z)LAND  
   
-  //Rastera\accentural\chaos-komet.html
-Visaid
+  //RASTERA\ACCENTURAL\CHAOS-KOMET.HTML
+ITX^D //VISAID
 
 Entrike
 Rayberk
