@@ -1,6 +1,18 @@
 ﻿ats^e
 nks.vts.vls //ftn.kbt.lnch_e
-lnt^s.y //E lntxys lnk.smt
+
+
+KLT.TLD:TLK
+ltv^n
+	lnt //E lntxys LNK.SMT
+	lty.nts:lnt^y
+		//IN71S
+	
+	qtx^u.qty
+		//QUTXS ELS.CHF.TXQYS BDS  
+	ltz^s:atz //hnlx
+	lts:nts //mls
+ltx
 
 nks:lnt:E:R.N
 nts.itl^s
@@ -19,7 +31,3 @@ lnsh
 	//achs_esh
 	//ech^s.lnch:lnt^ys
 esh
-
-lty.nts:lnt^y //ltv^n lntv ln7s.l lsls
-qty:lnt~u.bds //els chf.txqys quqs qtx
-ltz^ns:nts:atz //hnlx
