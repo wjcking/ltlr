@@ -8,15 +8,17 @@ trs:kt^v.ktz^l
 	rsk.kst.fsk:skr
   
   //束卡元
-	//初电 导电 地占 中天 
-	//地米 切池 闪电
+	//处地 导丹 地占 中天 
+	//地米 切彻 闪但 
+	//米希纶 
   tri^on:trk //TIRON TITANIUM
   txk
   tsl
-	//irtzk
+  knr:kna
+
 	$tsk-knt
-    //tch.ark.lnt.tas^l
-  //mts:knr_ao:kna:kd_e:fnd
+  //tch.ark.lnt.tas^l
+	//irtzk
 krs
 
 //所柯云:不正斜

@@ -3,16 +3,16 @@ nks.vts.vls //ftn.kbt.lnch_e
 
 
 KLT.TLD:TLK
-ltv^n
+ltx
 	lnt //E lntxys LNK.SMT
 	lty.nts:lnt^y
 		//IN71S
 	
-	qtx^u.qty
+	qty.qtx^u
 		//QUTXS ELS.CHF.TXQYS BDS  
 	ltz^s:atz //hnlx
 	lts:nts //mls
-ltx
+ltv^n
 
 nks:lnt:E:R.N
 nts.itl^s

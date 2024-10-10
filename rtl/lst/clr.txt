@@ -1,12 +1,10 @@
-﻿rtl
-lr.vh
-  fts_c.atr_ch
-    hls^k.art^sh
-    klh
-  vgs.wfs
-rl.hv
+﻿rtl.lr.vh:rl.hv
+fts.atr_ch
+hls^k.art^sh
+vgs.wfs_c
+klh
 
-ksh_s.rvr.lak
+ksh.rvr
 land.sld^vds
 lank^rk.rkrk^t
 

@@ -7,11 +7,8 @@ tfs:kbt.rst.vsd
 //nts
 ktn:tkn
 
-
-//	lty.kbt^tv
-//	kast
-//vzs^ja.gts:zja.jxs
-//vts.jts-vzs
+//VZS^JA.GTS:ZJA.JXS
+//VTS.JTS-VZS
 
 
 
