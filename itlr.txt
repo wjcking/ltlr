@@ -15,8 +15,8 @@ ltl^r
 		mch^r //mks
 		<MTH~SC>
 		rls
-		lwk
-		mgn //mel
+		//lwk mel
+		mgn 
 	gst
 	
 	[fsn:dst:srd]
