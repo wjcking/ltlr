@@ -10,16 +10,14 @@ ltl^r
 	annl.lct
 	rzk
   
-	gsk	//rsh:mth 
+	rls:rzk:mth~sc 	//rsh:mth 
+	gsk
 		<RTH-SC>
 		mch^r //mks
-		<MTH~SC>
-		rls
 		//lwk mel
 		mgn
 		
 		[srd:dsr]
 		hrk~ltlr.rzk^s.rtl
 	gst
-	
 rtl
