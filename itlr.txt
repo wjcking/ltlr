@@ -16,9 +16,10 @@ ltl^r
 		<MTH~SC>
 		rls
 		//lwk mel
-		mgn 
+		mgn
+		
+		[srd:dsr]
+		hrk~ltlr.rzk^s.rtl
 	gst
 	
-	[fsn:dst:srd]
-	gsk:hrs:bsk:txk
 rtl
